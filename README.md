@@ -1,1 +1,1 @@
-# hello, git!
+# Happy New Year, Git!
