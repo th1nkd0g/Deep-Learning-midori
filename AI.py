@@ -1,4 +1,4 @@
-"""This is test program"""
+"""This is test program of Deep Learning Training"""
 
 import numpy as np
 
