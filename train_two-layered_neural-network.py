@@ -31,7 +31,7 @@ iter_per_epoch = max(train_size / batch_size, 1)
 for i in range(iters_num):
     # ミニバッチの取得
     batch_mask = np.random.choice(train_size, batch_size)
-    x_batch = x_train[batch_mask]git
+    x_batch = x_train[batch_mask]
     t_batch = t_train[batch_mask]
 
     # 勾配の計算
