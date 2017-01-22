@@ -1,0 +1,9 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": false,
+    "python.pythonPath": "/usr/local/var/pyenv/versions/anaconda3-4.2.0/bin/python",
+    "python.linting.pep8Enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.lintOnTextChange": true
+}
